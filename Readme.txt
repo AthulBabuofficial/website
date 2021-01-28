@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+# Basic Tenmplate for our website#
+## use this code for reference##
 
-Template Name: Dewi
-Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+#how to use#
+
+  ## step1 click on the green clone button##
+  ## step2 coppy https url ##
+  ## step3 open your git bash and type "git clone url"
